@@ -25,7 +25,7 @@ int main()
     if(grade>=50){
     cout<<"   D - Below average";
     }else
-    if(grade>=0){
+    if(grade>=45){
     cout<<"   E - Pass";
     }else
     cout <<"   F - Failed";
